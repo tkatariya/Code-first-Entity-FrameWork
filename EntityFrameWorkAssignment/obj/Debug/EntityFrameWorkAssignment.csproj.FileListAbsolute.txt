@@ -1,0 +1,13 @@
+D:\E-drive\assignments\EntityFrameWorkAssignment\EntityFrameWorkAssignment\bin\Debug\EntityFrameWorkAssignment.exe.config
+D:\E-drive\assignments\EntityFrameWorkAssignment\EntityFrameWorkAssignment\bin\Debug\EntityFrameWorkAssignment.exe
+D:\E-drive\assignments\EntityFrameWorkAssignment\EntityFrameWorkAssignment\bin\Debug\EntityFrameWorkAssignment.pdb
+D:\E-drive\assignments\EntityFrameWorkAssignment\EntityFrameWorkAssignment\bin\Debug\EntityFramework.dll
+D:\E-drive\assignments\EntityFrameWorkAssignment\EntityFrameWorkAssignment\bin\Debug\EntityFramework.SqlServer.dll
+D:\E-drive\assignments\EntityFrameWorkAssignment\EntityFrameWorkAssignment\bin\Debug\EntityFramework.SqlServerCompact.dll
+D:\E-drive\assignments\EntityFrameWorkAssignment\EntityFrameWorkAssignment\bin\Debug\System.Data.SqlServerCe.dll
+D:\E-drive\assignments\EntityFrameWorkAssignment\EntityFrameWorkAssignment\bin\Debug\EntityFramework.xml
+D:\E-drive\assignments\EntityFrameWorkAssignment\EntityFrameWorkAssignment\bin\Debug\EntityFramework.SqlServer.xml
+D:\E-drive\assignments\EntityFrameWorkAssignment\EntityFrameWorkAssignment\bin\Debug\EntityFramework.SqlServerCompact.xml
+D:\E-drive\assignments\EntityFrameWorkAssignment\EntityFrameWorkAssignment\obj\Debug\EntityFrameWorkAssignment.exe
+D:\E-drive\assignments\EntityFrameWorkAssignment\EntityFrameWorkAssignment\obj\Debug\EntityFrameWorkAssignment.pdb
+D:\E-drive\assignments\EntityFrameWorkAssignment\EntityFrameWorkAssignment\obj\Debug\EntityFrameWorkAssignment.csprojResolveAssemblyReference.cache
